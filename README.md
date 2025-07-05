@@ -19,6 +19,12 @@
 - ✅ Responsive glassmorphic UI styled with Tailwind CSS<br/>
 - ✅ Deployed with Vercel and supports client-side routing<br/>
 
+<h3>🛠️ Tech Stack  : </h3> 
+- **Frontend:** React + Vite<br/>
+- **Styling:** Tailwind CSS<br/>
+- **Animations:** Framer Motion<br/>
+- **Deployment:** Vercel<br/>
+<br/>
 
 <h3>Deployed Project Link : </h3>
 <br>
@@ -32,10 +38,3 @@
     <a href="https://youtu.be/XHy9QOcM2gA">
          <img src="https://img.shields.io/badge/-Demo_Link-blue?style=flat-square" height="30px" width="90px" >
    </a> 
-<h3>🛠️ Tech Stack  : </h3> 
-- **Frontend:** React + Vite<br/>
-- **Styling:** Tailwind CSS<br/>
-- **Animations:** Framer Motion<br/>
-- **Deployment:** Vercel<br/>
-<br/>
-
