@@ -1,5 +1,5 @@
 <h1>My Finance Tracker</h1> 
-<img src="/public/dashboard.jpeg"/>
+<img src="/public/dashboard.jpeg">
 <h3>✅ Project Description : </h3> 
 💰 My Finance Tracker is a modern personal finance web app built with React, Vite, Tailwind CSS, and Framer Motion. It lets you easily add, edit, and delete transactions, organize expenses by categories, and visualize spending with a monthly expenses bar chart and category-wise pie chart. You can set monthly category budgets, see a budget vs actual comparison, and get spending insights to help you stay on track. Designed with a clean glassmorphic dashboard, smooth motion effects, and a user-friendly experience — perfect for tracking your spending habits and managing your money smarter.
 
