@@ -18,7 +18,7 @@ export default function App() {
       />
 
       <Routes>
-        <Route path="/dashboard" element={<Dashboard />} />
+        <Route path="/" element={<Dashboard />} />
       </Routes>
     </>
   );
