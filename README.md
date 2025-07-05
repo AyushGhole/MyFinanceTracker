@@ -1,5 +1,5 @@
 <h1>My Finance Tracker</h1> 
-<img src="/public/dashboard.jpeg">
+<img src="/public/dashboard.png">
 <h3>✅ Project Description : </h3> 
 💰 My Finance Tracker is a modern personal finance web app built with React, Vite, Tailwind CSS, and Framer Motion. It lets you easily add, edit, and delete transactions, organize expenses by categories, and visualize spending with a monthly expenses bar chart and category-wise pie chart. You can set monthly category budgets, see a budget vs actual comparison, and get spending insights to help you stay on track. Designed with a clean glassmorphic dashboard, smooth motion effects, and a user-friendly experience — perfect for tracking your spending habits and managing your money smarter.
 
@@ -19,6 +19,19 @@
 - ✅ Responsive glassmorphic UI styled with Tailwind CSS<br/>
 - ✅ Deployed with Vercel and supports client-side routing<br/>
 
+
+<h3>Deployed Project Link : </h3>
+<br>
+<br>
+  <a href="https://payway-in.onrender.com/main">
+         <img src="https://img.shields.io/badge/-Website_Link-blue?style=flat-square" height="30px" width="90px" >
+   </a>
+   <br>
+   <h4>Demo Link : </h4> 
+   <br>
+    <a href="https://youtu.be/XHy9QOcM2gA">
+         <img src="https://img.shields.io/badge/-Demo_Link-blue?style=flat-square" height="30px" width="90px" >
+   </a> 
 <h3>🛠️ Tech Stack  : </h3> 
 - **Frontend:** React + Vite<br/>
 - **Styling:** Tailwind CSS<br/>
